@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Create Project
+
+rails new api --api --minimal --database=mysql --skip-action-mailer --skip-action-mailbox --skip-action-mailbox --skip-active-job --skip-javascript --skip-turbolinks --skip-test --skip-system-test 
